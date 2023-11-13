@@ -20,8 +20,7 @@ The VI-Suite is an addon for Blender, functioning as a pre/post processor for Ra
 The use of VI-Suite and Blender is essential for the data this script processes.
 
 ## Citation
-This software can be cited with the following DOI:
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5957132.svg)](https://doi.org/10.6084/m9.figshare.24552889)
+This software can be cited with the following DOI: [10.6084/m9.figshare.24552889](https://figshare.com/articles/software/VI-Suite_Output_Data_Editor/24552889)
 
 ## Requirements
 - R Programming Language
