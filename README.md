@@ -3,7 +3,7 @@
 ## Overview
 This R package processes output .csv data from VI-Suite, an addon for Blender 3D content creation application. It's designed for studies examining illumination across various dates, focusing on four seasonal dates (Summer Solstice, Autumn Equinox, Winter Solstice, Spring Equinox) and multiple hours within those seasons across multiple analysis planes in each "Room" of a structure.
 
-This script was developed as part of Alexander Birkett's PhD project, "Virtual Ruins, Real Insights: Establishing A Framework for three-dimensional Modelling in Archaeology."
+This script was developed as part of my PhD project, "Virtual Ruins, Real Insights: Establishing A Framework for three-dimensional Modelling in Archaeology."
 
 ## VI-Suite and Blender
 The VI-Suite is an addon for Blender, functioning as a pre/post processor for Radiance and EnergyPlus building simulation tools, and providing various building context analyses. Like Blender, Radiance, EnergyPlus, and OpenFOAM, the VI-Suite is free, open-source, and multi-platform. Its deep integration with Blender offers several capabilities:
