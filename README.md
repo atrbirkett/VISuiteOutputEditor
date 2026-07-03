@@ -1,7 +1,7 @@
 # VI-Suite Illuminance Data Processing Script
 
 ## Overview
-This R package processes output .csv data from VI-Suite, an addon for Blender 3D content creation application. It's designed for studies examining illumination across various dates, focusing on four seasonal dates (Summer Solstice, Autumn Equinox, Winter Solstice, Spring Equinox) and multiple hours within those seasons across multiple analysis planes in each "Room" of a structure.
+This R package processes output .csv data from VI-Suite, an addon for Blender 3D. It's designed for studies examining illumination across various dates, and multiple hours within those seasons across multiple analysis planes in each "Room" of a structure.
 
 This script was developed as part of my PhD project, "Virtual Ruins, Real Insights: Establishing A Framework for three-dimensional Modelling in Archaeology."
 
